@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+#table3 {
+    margin: 20px auto;
+    border: 1px solid black;
+    font-family: open sans;
+    border-collapse: collapse;
+    text-align: left;
+    width: 75%;
+}
+
+th {
+    width: 65%;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+td {
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+#or {
+    background: #fea500;
+    color: white;
+}
+
+#blu {
+    background: #4f4fff;
+    color: white;
+}
+
+#gree {
+    background: #16c03b;
+    color: white;
+}
